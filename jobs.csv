@@ -1,0 +1,37 @@
+﻿job_id,title,company,location,salary,employment_type,experience,description,url
+JOB-001,Data Analyst,Blue Oak Analytics,"Kolhapur, India",₹4–6 LPA,Contract,1+ years,Synthetic job description for portfolio demonstration 1.,https://jobs.example.test/openings/sample-001
+JOB-002,Web Scraping Engineer,MetricSpring,"Nashik, India",₹5–7 LPA,Remote,2+ years,Synthetic job description for portfolio demonstration 2.,https://jobs.example.test/openings/sample-002
+JOB-003,QA Automation Engineer,Cedar Systems,"Mumbai, India",₹6–8 LPA,Full-time,3+ years,Synthetic job description for portfolio demonstration 3.,https://jobs.example.test/openings/sample-003
+JOB-004,Backend Developer,Orbit Market Research,"Nagpur, India",₹7–9 LPA,Contract,4+ years,Synthetic job description for portfolio demonstration 4.,https://jobs.example.test/openings/sample-004
+JOB-005,Research Associate,BrightPath Digital,"Sangli, India",,Remote,0+ years,Synthetic job description for portfolio demonstration 5.,https://jobs.example.test/openings/sample-005
+JOB-006,Python Developer,Northstar Labs,"Pune, India",₹9–11 LPA,Full-time,1+ years,Synthetic job description for portfolio demonstration 6.,https://jobs.example.test/openings/sample-006
+JOB-007,Data Analyst,Blue Oak Analytics,"Kolhapur, India",₹10–12 LPA,Contract,2+ years,Synthetic job description for portfolio demonstration 7.,https://jobs.example.test/openings/sample-007
+JOB-008,Web Scraping Engineer,MetricSpring,"Nashik, India",₹3–13 LPA,Remote,3+ years,Synthetic job description for portfolio demonstration 8.,https://jobs.example.test/openings/sample-008
+JOB-009,QA Automation Engineer,Cedar Systems,"Mumbai, India",₹4–14 LPA,Full-time,4+ years,Synthetic job description for portfolio demonstration 9.,https://jobs.example.test/openings/sample-009
+JOB-010,Backend Developer,Orbit Market Research,"Nagpur, India",,Contract,0+ years,Synthetic job description for portfolio demonstration 10.,https://jobs.example.test/openings/sample-010
+JOB-011,Research Associate,BrightPath Digital,"Sangli, India",₹6–6 LPA,Remote,1+ years,Synthetic job description for portfolio demonstration 11.,https://jobs.example.test/openings/sample-011
+JOB-012,Python Developer,Northstar Labs,"Pune, India",₹7–7 LPA,Full-time,2+ years,Synthetic job description for portfolio demonstration 12.,https://jobs.example.test/openings/sample-012
+JOB-013,Data Analyst,Blue Oak Analytics,"Kolhapur, India",₹8–8 LPA,Contract,3+ years,Synthetic job description for portfolio demonstration 13.,https://jobs.example.test/openings/sample-013
+JOB-014,Web Scraping Engineer,MetricSpring,"Nashik, India",₹9–9 LPA,Remote,4+ years,Synthetic job description for portfolio demonstration 14.,https://jobs.example.test/openings/sample-014
+JOB-015,QA Automation Engineer,Cedar Systems,"Mumbai, India",,Full-time,0+ years,Synthetic job description for portfolio demonstration 15.,https://jobs.example.test/openings/sample-015
+JOB-016,Backend Developer,Orbit Market Research,"Nagpur, India",₹3–11 LPA,Contract,1+ years,Synthetic job description for portfolio demonstration 16.,https://jobs.example.test/openings/sample-016
+JOB-017,Research Associate,BrightPath Digital,"Sangli, India",₹4–12 LPA,Remote,2+ years,Synthetic job description for portfolio demonstration 17.,https://jobs.example.test/openings/sample-017
+JOB-018,Python Developer,Northstar Labs,"Pune, India",₹5–13 LPA,Full-time,3+ years,Synthetic job description for portfolio demonstration 18.,https://jobs.example.test/openings/sample-018
+JOB-019,Data Analyst,Blue Oak Analytics,"Kolhapur, India",₹6–14 LPA,Contract,4+ years,Synthetic job description for portfolio demonstration 19.,https://jobs.example.test/openings/sample-019
+JOB-020,Web Scraping Engineer,MetricSpring,"Nashik, India",,Remote,0+ years,Synthetic job description for portfolio demonstration 20.,https://jobs.example.test/openings/sample-020
+JOB-021,QA Automation Engineer,Cedar Systems,"Mumbai, India",₹8–6 LPA,Full-time,1+ years,Synthetic job description for portfolio demonstration 21.,https://jobs.example.test/openings/sample-021
+JOB-022,Backend Developer,Orbit Market Research,"Nagpur, India",₹9–7 LPA,Contract,2+ years,Synthetic job description for portfolio demonstration 22.,https://jobs.example.test/openings/sample-022
+JOB-023,Research Associate,BrightPath Digital,"Sangli, India",₹10–8 LPA,Remote,3+ years,Synthetic job description for portfolio demonstration 23.,https://jobs.example.test/openings/sample-023
+JOB-024,Python Developer,Northstar Labs,"Pune, India",₹3–9 LPA,Full-time,4+ years,Synthetic job description for portfolio demonstration 24.,https://jobs.example.test/openings/sample-024
+JOB-025,Data Analyst,Blue Oak Analytics,"Kolhapur, India",,Contract,0+ years,Synthetic job description for portfolio demonstration 25.,https://jobs.example.test/openings/sample-025
+JOB-026,Web Scraping Engineer,MetricSpring,"Nashik, India",₹5–11 LPA,Remote,1+ years,Synthetic job description for portfolio demonstration 26.,https://jobs.example.test/openings/sample-026
+JOB-027,QA Automation Engineer,Cedar Systems,"Mumbai, India",₹6–12 LPA,Full-time,2+ years,Synthetic job description for portfolio demonstration 27.,https://jobs.example.test/openings/sample-027
+JOB-028,Backend Developer,Orbit Market Research,"Nagpur, India",₹7–13 LPA,Contract,3+ years,Synthetic job description for portfolio demonstration 28.,https://jobs.example.test/openings/sample-028
+JOB-029,Research Associate,BrightPath Digital,"Sangli, India",₹8–14 LPA,Remote,4+ years,Synthetic job description for portfolio demonstration 29.,https://jobs.example.test/openings/sample-029
+JOB-030,Python Developer,Northstar Labs,"Pune, India",,Full-time,0+ years,Synthetic job description for portfolio demonstration 30.,https://jobs.example.test/openings/sample-030
+JOB-031,Data Analyst,Blue Oak Analytics,"Kolhapur, India",₹10–6 LPA,Contract,1+ years,Synthetic job description for portfolio demonstration 31.,https://jobs.example.test/openings/sample-031
+JOB-032,Web Scraping Engineer,MetricSpring,"Nashik, India",₹3–7 LPA,Remote,2+ years,Synthetic job description for portfolio demonstration 32.,https://jobs.example.test/openings/sample-032
+JOB-033,QA Automation Engineer,Cedar Systems,"Mumbai, India",₹4–8 LPA,Full-time,3+ years,Synthetic job description for portfolio demonstration 33.,https://jobs.example.test/openings/sample-033
+JOB-034,Backend Developer,Orbit Market Research,"Nagpur, India",₹5–9 LPA,Contract,4+ years,Synthetic job description for portfolio demonstration 34.,https://jobs.example.test/openings/sample-034
+JOB-035,Research Associate,BrightPath Digital,"Sangli, India",,Remote,0+ years,Synthetic job description for portfolio demonstration 35.,https://jobs.example.test/openings/sample-035
+JOB-036,Python Developer,Northstar Labs,"Pune, India",₹7–11 LPA,Full-time,1+ years,Synthetic job description for portfolio demonstration 36.,https://jobs.example.test/openings/sample-036

@@ -1,0 +1,31 @@
+﻿business_id,name,category,website,phone,location,source_url
+BIZ-001,Digital Marketing Sample Company 1,Digital Marketing,https://company-001.example.test,+91-00000-10001,"Kolhapur, Maharashtra, India",https://directory.example.test/business/001
+BIZ-002,Real Estate Sample Company 2,Real Estate,https://company-002.example.test,+91-00000-10002,"Nashik, Maharashtra, India",https://directory.example.test/business/002
+BIZ-003,Logistics Sample Company 3,Logistics,https://company-003.example.test,+91-00000-10003,"Mumbai, Maharashtra, India",https://directory.example.test/business/003
+BIZ-004,Retail Sample Company 4,Retail,https://company-004.example.test,,"Nagpur, Maharashtra, India",https://directory.example.test/business/004
+BIZ-005,Consulting Sample Company 5,Consulting,https://company-005.example.test,+91-00000-10005,"Sangli, Maharashtra, India",https://directory.example.test/business/005
+BIZ-006,Software Services Sample Company 6,Software Services,https://company-006.example.test,+91-00000-10006,"Pune, Maharashtra, India",https://directory.example.test/business/006
+BIZ-007,Digital Marketing Sample Company 7,Digital Marketing,https://company-007.example.test,+91-00000-10007,"Kolhapur, Maharashtra, India",https://directory.example.test/business/007
+BIZ-008,Real Estate Sample Company 8,Real Estate,https://company-008.example.test,,"Nashik, Maharashtra, India",https://directory.example.test/business/008
+BIZ-009,Logistics Sample Company 9,Logistics,https://company-009.example.test,+91-00000-10009,"Mumbai, Maharashtra, India",https://directory.example.test/business/009
+BIZ-010,Retail Sample Company 10,Retail,https://company-010.example.test,+91-00000-10010,"Nagpur, Maharashtra, India",https://directory.example.test/business/010
+BIZ-011,Consulting Sample Company 11,Consulting,https://company-011.example.test,+91-00000-10011,"Sangli, Maharashtra, India",https://directory.example.test/business/011
+BIZ-012,Software Services Sample Company 12,Software Services,https://company-012.example.test,,"Pune, Maharashtra, India",https://directory.example.test/business/012
+BIZ-013,Digital Marketing Sample Company 13,Digital Marketing,https://company-013.example.test,+91-00000-10013,"Kolhapur, Maharashtra, India",https://directory.example.test/business/013
+BIZ-014,Real Estate Sample Company 14,Real Estate,https://company-014.example.test,+91-00000-10014,"Nashik, Maharashtra, India",https://directory.example.test/business/014
+BIZ-015,Logistics Sample Company 15,Logistics,https://company-015.example.test,+91-00000-10015,"Mumbai, Maharashtra, India",https://directory.example.test/business/015
+BIZ-016,Retail Sample Company 16,Retail,https://company-016.example.test,,"Nagpur, Maharashtra, India",https://directory.example.test/business/016
+BIZ-017,Consulting Sample Company 17,Consulting,https://company-017.example.test,+91-00000-10017,"Sangli, Maharashtra, India",https://directory.example.test/business/017
+BIZ-018,Software Services Sample Company 18,Software Services,https://company-018.example.test,+91-00000-10018,"Pune, Maharashtra, India",https://directory.example.test/business/018
+BIZ-019,Digital Marketing Sample Company 19,Digital Marketing,https://company-019.example.test,+91-00000-10019,"Kolhapur, Maharashtra, India",https://directory.example.test/business/019
+BIZ-020,Real Estate Sample Company 20,Real Estate,https://company-020.example.test,,"Nashik, Maharashtra, India",https://directory.example.test/business/020
+BIZ-021,Logistics Sample Company 21,Logistics,https://company-021.example.test,+91-00000-10021,"Mumbai, Maharashtra, India",https://directory.example.test/business/021
+BIZ-022,Retail Sample Company 22,Retail,https://company-022.example.test,+91-00000-10022,"Nagpur, Maharashtra, India",https://directory.example.test/business/022
+BIZ-023,Consulting Sample Company 23,Consulting,https://company-023.example.test,+91-00000-10023,"Sangli, Maharashtra, India",https://directory.example.test/business/023
+BIZ-024,Software Services Sample Company 24,Software Services,https://company-024.example.test,,"Pune, Maharashtra, India",https://directory.example.test/business/024
+BIZ-025,Digital Marketing Sample Company 25,Digital Marketing,https://company-025.example.test,+91-00000-10025,"Kolhapur, Maharashtra, India",https://directory.example.test/business/025
+BIZ-026,Real Estate Sample Company 26,Real Estate,https://company-026.example.test,+91-00000-10026,"Nashik, Maharashtra, India",https://directory.example.test/business/026
+BIZ-027,Logistics Sample Company 27,Logistics,https://company-027.example.test,+91-00000-10027,"Mumbai, Maharashtra, India",https://directory.example.test/business/027
+BIZ-028,Retail Sample Company 28,Retail,https://company-028.example.test,,"Nagpur, Maharashtra, India",https://directory.example.test/business/028
+BIZ-029,Consulting Sample Company 29,Consulting,https://company-029.example.test,+91-00000-10029,"Sangli, Maharashtra, India",https://directory.example.test/business/029
+BIZ-030,Software Services Sample Company 30,Software Services,https://company-030.example.test,+91-00000-10030,"Pune, Maharashtra, India",https://directory.example.test/business/030

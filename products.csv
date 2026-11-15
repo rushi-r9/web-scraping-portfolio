@@ -1,0 +1,121 @@
+﻿sku,name,price,currency,category,availability,rating,description,url
+DEMO-0001,Wireless Mouse,33.48,USD,Peripherals,Limited stock,3.7,Demonstration product record 1; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0001
+DEMO-0002,Mechanical Keyboard,46.97,USD,Audio,Out of stock,3.8,Demonstration product record 2; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0002
+DEMO-0003,USB-C Hub,60.46,USD,Storage,In stock,3.9,Demonstration product record 3; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0003
+DEMO-0004,Laptop Stand,71.99,USD,Office,Limited stock,4.0,Demonstration product record 4; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0004
+DEMO-0005,Noise-Cancelling Headphones,85.48,USD,Accessories,Out of stock,4.1,Demonstration product record 5; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0005
+DEMO-0006,Portable SSD,98.97,USD,Peripherals,In stock,4.2,Demonstration product record 6; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0006
+DEMO-0007,Webcam,112.46,USD,Audio,Limited stock,4.3,Demonstration product record 7; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0007
+DEMO-0008,Monitor Light Bar,123.99,USD,Storage,Out of stock,4.4,Demonstration product record 8; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0008
+DEMO-0009,Bluetooth Speaker,137.48,USD,Office,In stock,4.5,Demonstration product record 9; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0009
+DEMO-0010,Ergonomic Chair,150.97,USD,Accessories,Limited stock,4.6,Demonstration product record 10; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0010
+DEMO-0011,Desk Mat,164.46,USD,Peripherals,Out of stock,4.7,Demonstration product record 11; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0011
+DEMO-0012,Power Bank,175.99,USD,Audio,In stock,4.8,Demonstration product record 12; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0012
+DEMO-0013,Smart Watch,189.48,USD,Storage,Limited stock,4.9,Demonstration product record 13; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0013
+DEMO-0014,HDMI Adapter,202.97,USD,Office,Out of stock,3.6,Demonstration product record 14; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0014
+DEMO-0015,Microphone,216.46,USD,Accessories,In stock,3.7,Demonstration product record 15; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0015
+DEMO-0016,Wireless Mouse 2,227.99,USD,Peripherals,Limited stock,3.8,Demonstration product record 16; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0016
+DEMO-0017,Mechanical Keyboard 2,241.48,USD,Audio,Out of stock,3.9,Demonstration product record 17; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0017
+DEMO-0018,USB-C Hub 2,254.97,USD,Storage,In stock,4.0,Demonstration product record 18; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0018
+DEMO-0019,Laptop Stand 2,28.46,USD,Office,Limited stock,4.1,Demonstration product record 19; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0019
+DEMO-0020,Noise-Cancelling Headphones 2,39.99,USD,Accessories,Out of stock,4.2,Demonstration product record 20; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0020
+DEMO-0021,Portable SSD 2,53.48,USD,Peripherals,In stock,4.3,Demonstration product record 21; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0021
+DEMO-0022,Webcam 2,66.97,USD,Audio,Limited stock,4.4,Demonstration product record 22; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0022
+DEMO-0023,Monitor Light Bar 2,80.46,USD,Storage,Out of stock,4.5,Demonstration product record 23; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0023
+DEMO-0024,Bluetooth Speaker 2,91.99,USD,Office,In stock,4.6,Demonstration product record 24; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0024
+DEMO-0025,Ergonomic Chair 2,105.48,USD,Accessories,Limited stock,4.7,Demonstration product record 25; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0025
+DEMO-0026,Desk Mat 2,118.97,USD,Peripherals,Out of stock,4.8,Demonstration product record 26; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0026
+DEMO-0027,Power Bank 2,132.46,USD,Audio,In stock,4.9,Demonstration product record 27; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0027
+DEMO-0028,Smart Watch 2,143.99,USD,Storage,Limited stock,3.6,Demonstration product record 28; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0028
+DEMO-0029,HDMI Adapter 2,157.48,USD,Office,Out of stock,3.7,Demonstration product record 29; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0029
+DEMO-0030,Microphone 2,170.97,USD,Accessories,In stock,3.8,Demonstration product record 30; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0030
+DEMO-0031,Wireless Mouse 3,184.46,USD,Peripherals,Limited stock,3.9,Demonstration product record 31; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0031
+DEMO-0032,Mechanical Keyboard 3,195.99,USD,Audio,Out of stock,4.0,Demonstration product record 32; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0032
+DEMO-0033,USB-C Hub 3,209.48,USD,Storage,In stock,4.1,Demonstration product record 33; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0033
+DEMO-0034,Laptop Stand 3,222.97,USD,Office,Limited stock,4.2,Demonstration product record 34; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0034
+DEMO-0035,Noise-Cancelling Headphones 3,236.46,USD,Accessories,Out of stock,4.3,Demonstration product record 35; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0035
+DEMO-0036,Portable SSD 3,247.99,USD,Peripherals,In stock,4.4,Demonstration product record 36; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0036
+DEMO-0037,Webcam 3,21.48,USD,Audio,Limited stock,4.5,Demonstration product record 37; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0037
+DEMO-0038,Monitor Light Bar 3,34.97,USD,Storage,Out of stock,4.6,Demonstration product record 38; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0038
+DEMO-0039,Bluetooth Speaker 3,48.46,USD,Office,In stock,4.7,Demonstration product record 39; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0039
+DEMO-0040,Ergonomic Chair 3,59.99,USD,Accessories,Limited stock,4.8,Demonstration product record 40; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0040
+DEMO-0041,Desk Mat 3,73.48,USD,Peripherals,Out of stock,4.9,Demonstration product record 41; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0041
+DEMO-0042,Power Bank 3,86.97,USD,Audio,In stock,3.6,Demonstration product record 42; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0042
+DEMO-0043,Smart Watch 3,100.46,USD,Storage,Limited stock,3.7,Demonstration product record 43; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0043
+DEMO-0044,HDMI Adapter 3,111.99,USD,Office,Out of stock,3.8,Demonstration product record 44; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0044
+DEMO-0045,Microphone 3,125.48,USD,Accessories,In stock,3.9,Demonstration product record 45; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0045
+DEMO-0046,Wireless Mouse 4,138.97,USD,Peripherals,Limited stock,4.0,Demonstration product record 46; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0046
+DEMO-0047,Mechanical Keyboard 4,152.46,USD,Audio,Out of stock,4.1,Demonstration product record 47; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0047
+DEMO-0048,USB-C Hub 4,163.99,USD,Storage,In stock,4.2,Demonstration product record 48; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0048
+DEMO-0049,Laptop Stand 4,177.48,USD,Office,Limited stock,4.3,Demonstration product record 49; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0049
+DEMO-0050,Noise-Cancelling Headphones 4,190.97,USD,Accessories,Out of stock,4.4,Demonstration product record 50; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0050
+DEMO-0051,Portable SSD 4,204.46,USD,Peripherals,In stock,4.5,Demonstration product record 51; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0051
+DEMO-0052,Webcam 4,215.99,USD,Audio,Limited stock,4.6,Demonstration product record 52; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0052
+DEMO-0053,Monitor Light Bar 4,229.48,USD,Storage,Out of stock,4.7,Demonstration product record 53; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0053
+DEMO-0054,Bluetooth Speaker 4,242.97,USD,Office,In stock,4.8,Demonstration product record 54; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0054
+DEMO-0055,Ergonomic Chair 4,256.46,USD,Accessories,Limited stock,4.9,Demonstration product record 55; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0055
+DEMO-0056,Desk Mat 4,27.99,USD,Peripherals,Out of stock,3.6,Demonstration product record 56; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0056
+DEMO-0057,Power Bank 4,41.48,USD,Audio,In stock,3.7,Demonstration product record 57; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0057
+DEMO-0058,Smart Watch 4,54.97,USD,Storage,Limited stock,3.8,Demonstration product record 58; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0058
+DEMO-0059,HDMI Adapter 4,68.46,USD,Office,Out of stock,3.9,Demonstration product record 59; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0059
+DEMO-0060,Microphone 4,79.99,USD,Accessories,In stock,4.0,Demonstration product record 60; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0060
+DEMO-0061,Wireless Mouse 5,93.48,USD,Peripherals,Limited stock,4.1,Demonstration product record 61; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0061
+DEMO-0062,Mechanical Keyboard 5,106.97,USD,Audio,Out of stock,4.2,Demonstration product record 62; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0062
+DEMO-0063,USB-C Hub 5,120.46,USD,Storage,In stock,4.3,Demonstration product record 63; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0063
+DEMO-0064,Laptop Stand 5,131.99,USD,Office,Limited stock,4.4,Demonstration product record 64; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0064
+DEMO-0065,Noise-Cancelling Headphones 5,145.48,USD,Accessories,Out of stock,4.5,Demonstration product record 65; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0065
+DEMO-0066,Portable SSD 5,158.97,USD,Peripherals,In stock,4.6,Demonstration product record 66; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0066
+DEMO-0067,Webcam 5,172.46,USD,Audio,Limited stock,4.7,Demonstration product record 67; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0067
+DEMO-0068,Monitor Light Bar 5,183.99,USD,Storage,Out of stock,4.8,Demonstration product record 68; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0068
+DEMO-0069,Bluetooth Speaker 5,197.48,USD,Office,In stock,4.9,Demonstration product record 69; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0069
+DEMO-0070,Ergonomic Chair 5,210.97,USD,Accessories,Limited stock,3.6,Demonstration product record 70; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0070
+DEMO-0071,Desk Mat 5,224.46,USD,Peripherals,Out of stock,3.7,Demonstration product record 71; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0071
+DEMO-0072,Power Bank 5,235.99,USD,Audio,In stock,3.8,Demonstration product record 72; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0072
+DEMO-0073,Smart Watch 5,249.48,USD,Storage,Limited stock,3.9,Demonstration product record 73; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0073
+DEMO-0074,HDMI Adapter 5,22.97,USD,Office,Out of stock,4.0,Demonstration product record 74; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0074
+DEMO-0075,Microphone 5,36.46,USD,Accessories,In stock,4.1,Demonstration product record 75; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0075
+DEMO-0076,Wireless Mouse 6,47.99,USD,Peripherals,Limited stock,4.2,Demonstration product record 76; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0076
+DEMO-0077,Mechanical Keyboard 6,61.48,USD,Audio,Out of stock,4.3,Demonstration product record 77; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0077
+DEMO-0078,USB-C Hub 6,74.97,USD,Storage,In stock,4.4,Demonstration product record 78; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0078
+DEMO-0079,Laptop Stand 6,88.46,USD,Office,Limited stock,4.5,Demonstration product record 79; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0079
+DEMO-0080,Noise-Cancelling Headphones 6,99.99,USD,Accessories,Out of stock,4.6,Demonstration product record 80; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0080
+DEMO-0081,Portable SSD 6,113.48,USD,Peripherals,In stock,4.7,Demonstration product record 81; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0081
+DEMO-0082,Webcam 6,126.97,USD,Audio,Limited stock,4.8,Demonstration product record 82; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0082
+DEMO-0083,Monitor Light Bar 6,140.46,USD,Storage,Out of stock,4.9,Demonstration product record 83; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0083
+DEMO-0084,Bluetooth Speaker 6,151.99,USD,Office,In stock,3.6,Demonstration product record 84; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0084
+DEMO-0085,Ergonomic Chair 6,165.48,USD,Accessories,Limited stock,3.7,Demonstration product record 85; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0085
+DEMO-0086,Desk Mat 6,178.97,USD,Peripherals,Out of stock,3.8,Demonstration product record 86; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0086
+DEMO-0087,Power Bank 6,192.46,USD,Audio,In stock,3.9,Demonstration product record 87; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0087
+DEMO-0088,Smart Watch 6,203.99,USD,Storage,Limited stock,4.0,Demonstration product record 88; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0088
+DEMO-0089,HDMI Adapter 6,217.48,USD,Office,Out of stock,4.1,Demonstration product record 89; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0089
+DEMO-0090,Microphone 6,230.97,USD,Accessories,In stock,4.2,Demonstration product record 90; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0090
+DEMO-0091,Wireless Mouse 7,244.46,USD,Peripherals,Limited stock,4.3,Demonstration product record 91; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0091
+DEMO-0092,Mechanical Keyboard 7,255.99,USD,Audio,Out of stock,4.4,Demonstration product record 92; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0092
+DEMO-0093,USB-C Hub 7,29.48,USD,Storage,In stock,4.5,Demonstration product record 93; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0093
+DEMO-0094,Laptop Stand 7,42.97,USD,Office,Limited stock,4.6,Demonstration product record 94; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0094
+DEMO-0095,Noise-Cancelling Headphones 7,56.46,USD,Accessories,Out of stock,4.7,Demonstration product record 95; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0095
+DEMO-0096,Portable SSD 7,67.99,USD,Peripherals,In stock,4.8,Demonstration product record 96; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0096
+DEMO-0097,Webcam 7,81.48,USD,Audio,Limited stock,4.9,Demonstration product record 97; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0097
+DEMO-0098,Monitor Light Bar 7,94.97,USD,Storage,Out of stock,3.6,Demonstration product record 98; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0098
+DEMO-0099,Bluetooth Speaker 7,108.46,USD,Office,In stock,3.7,Demonstration product record 99; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0099
+DEMO-0100,Ergonomic Chair 7,119.99,USD,Accessories,Limited stock,3.8,Demonstration product record 100; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0100
+DEMO-0101,Desk Mat 7,133.48,USD,Peripherals,Out of stock,3.9,Demonstration product record 101; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0101
+DEMO-0102,Power Bank 7,146.97,USD,Audio,In stock,4.0,Demonstration product record 102; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0102
+DEMO-0103,Smart Watch 7,160.46,USD,Storage,Limited stock,4.1,Demonstration product record 103; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0103
+DEMO-0104,HDMI Adapter 7,171.99,USD,Office,Out of stock,4.2,Demonstration product record 104; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0104
+DEMO-0105,Microphone 7,185.48,USD,Accessories,In stock,4.3,Demonstration product record 105; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0105
+DEMO-0106,Wireless Mouse 8,198.97,USD,Peripherals,Limited stock,4.4,Demonstration product record 106; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0106
+DEMO-0107,Mechanical Keyboard 8,212.46,USD,Audio,Out of stock,4.5,Demonstration product record 107; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0107
+DEMO-0108,USB-C Hub 8,223.99,USD,Storage,In stock,4.6,Demonstration product record 108; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0108
+DEMO-0109,Laptop Stand 8,237.48,USD,Office,Limited stock,4.7,Demonstration product record 109; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0109
+DEMO-0110,Noise-Cancelling Headphones 8,250.97,USD,Accessories,Out of stock,4.8,Demonstration product record 110; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0110
+DEMO-0111,Portable SSD 8,24.46,USD,Peripherals,In stock,4.9,Demonstration product record 111; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0111
+DEMO-0112,Webcam 8,35.99,USD,Audio,Limited stock,3.6,Demonstration product record 112; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0112
+DEMO-0113,Monitor Light Bar 8,49.48,USD,Storage,Out of stock,3.7,Demonstration product record 113; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0113
+DEMO-0114,Bluetooth Speaker 8,62.97,USD,Office,In stock,3.8,Demonstration product record 114; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0114
+DEMO-0115,Ergonomic Chair 8,76.46,USD,Accessories,Limited stock,3.9,Demonstration product record 115; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0115
+DEMO-0116,Desk Mat 8,87.99,USD,Peripherals,Out of stock,4.0,Demonstration product record 116; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0116
+DEMO-0117,Power Bank 8,101.48,USD,Audio,In stock,4.1,Demonstration product record 117; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0117
+DEMO-0118,Smart Watch 8,114.97,USD,Storage,Limited stock,4.2,Demonstration product record 118; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0118
+DEMO-0119,HDMI Adapter 8,128.46,USD,Office,Out of stock,4.3,Demonstration product record 119; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0119
+DEMO-0120,Microphone 8,139.99,USD,Accessories,In stock,4.4,Demonstration product record 120; synthetic fixture content for parser testing.,https://catalog.example.test/products/demo-0120

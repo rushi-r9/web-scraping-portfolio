@@ -1,0 +1,21 @@
+{
+  "dataset": "products",
+  "pages_read": 6,
+  "records_exported": 120,
+  "required_fields": [
+    "sku",
+    "name",
+    "price",
+    "url"
+  ],
+  "optional_missing_values": {
+    "currency": 0,
+    "category": 0,
+    "availability": 0,
+    "rating": 0,
+    "description": 0
+  },
+  "deduplication_key": "sku",
+  "source_type": "local authored HTML test fixtures",
+  "notice": "Synthetic demonstration records; not live third-party data."
+}
