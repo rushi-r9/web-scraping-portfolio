@@ -1,0 +1,31 @@
+sku,product_name,observed_at,price,currency,availability,source_url
+DEMO-0001,Wireless Mouse,2026-11-13,42.65,USD,In stock,https://catalog.example.test/products/demo-0001
+DEMO-0001,Wireless Mouse,2026-11-15,41.16,USD,In stock,https://catalog.example.test/products/demo-0001
+DEMO-0002,Mechanical Keyboard,2026-11-13,50.30,USD,In stock,https://catalog.example.test/products/demo-0002
+DEMO-0002,Mechanical Keyboard,2026-11-15,50.30,USD,In stock,https://catalog.example.test/products/demo-0002
+DEMO-0003,USB-C Hub,2026-11-13,57.95,USD,In stock,https://catalog.example.test/products/demo-0003
+DEMO-0003,USB-C Hub,2026-11-15,60.27,USD,In stock,https://catalog.example.test/products/demo-0003
+DEMO-0004,Laptop Stand,2026-11-13,65.60,USD,In stock,https://catalog.example.test/products/demo-0004
+DEMO-0004,Laptop Stand,2026-11-15,71.83,USD,In stock,https://catalog.example.test/products/demo-0004
+DEMO-0005,Noise-Cancelling Headphones,2026-11-13,73.25,USD,In stock,https://catalog.example.test/products/demo-0005
+DEMO-0005,Noise-Cancelling Headphones,2026-11-15,67.39,USD,In stock,https://catalog.example.test/products/demo-0005
+DEMO-0006,Portable SSD,2026-11-13,80.90,USD,In stock,https://catalog.example.test/products/demo-0006
+DEMO-0006,Portable SSD,2026-11-15,78.07,USD,In stock,https://catalog.example.test/products/demo-0006
+DEMO-0007,Webcam,2026-11-13,88.55,USD,In stock,https://catalog.example.test/products/demo-0007
+DEMO-0007,Webcam,2026-11-15,88.55,USD,Out of stock,https://catalog.example.test/products/demo-0007
+DEMO-0008,Monitor Light Bar,2026-11-13,96.20,USD,In stock,https://catalog.example.test/products/demo-0008
+DEMO-0008,Monitor Light Bar,2026-11-15,100.05,USD,In stock,https://catalog.example.test/products/demo-0008
+DEMO-0009,Bluetooth Speaker,2026-11-13,103.85,USD,In stock,https://catalog.example.test/products/demo-0009
+DEMO-0009,Bluetooth Speaker,2026-11-15,113.72,USD,In stock,https://catalog.example.test/products/demo-0009
+DEMO-0010,Ergonomic Chair,2026-11-13,111.50,USD,In stock,https://catalog.example.test/products/demo-0010
+DEMO-0010,Ergonomic Chair,2026-11-15,102.58,USD,In stock,https://catalog.example.test/products/demo-0010
+DEMO-0011,Desk Mat,2026-11-13,119.15,USD,In stock,https://catalog.example.test/products/demo-0011
+DEMO-0011,Desk Mat,2026-11-15,114.98,USD,In stock,https://catalog.example.test/products/demo-0011
+DEMO-0012,Power Bank,2026-11-13,126.80,USD,In stock,https://catalog.example.test/products/demo-0012
+DEMO-0012,Power Bank,2026-11-15,126.80,USD,In stock,https://catalog.example.test/products/demo-0012
+DEMO-0013,Smart Watch,2026-11-13,134.45,USD,In stock,https://catalog.example.test/products/demo-0013
+DEMO-0013,Smart Watch,2026-11-15,139.83,USD,In stock,https://catalog.example.test/products/demo-0013
+DEMO-0014,HDMI Adapter,2026-11-13,142.10,USD,In stock,https://catalog.example.test/products/demo-0014
+DEMO-0014,HDMI Adapter,2026-11-15,155.60,USD,Out of stock,https://catalog.example.test/products/demo-0014
+DEMO-0015,Microphone,2026-11-13,149.75,USD,In stock,https://catalog.example.test/products/demo-0015
+DEMO-0015,Microphone,2026-11-15,137.77,USD,In stock,https://catalog.example.test/products/demo-0015

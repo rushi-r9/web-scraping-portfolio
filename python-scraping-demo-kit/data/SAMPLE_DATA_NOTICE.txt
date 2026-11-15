@@ -1,0 +1,1 @@
+All sample business records and price history in this kit are synthetic, generated for parser and workflow demonstrations. The HTML fixture pages are local test inputs authored for reproducible extraction. They are not live retailer, property, job-board, or directory data.
